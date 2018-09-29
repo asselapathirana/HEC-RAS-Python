@@ -1,0 +1,85 @@
+Message  | Plan: 'plan sedi00' (test_sedi.p03)
+Message  | Simulation started at: 29Sep2018 05:53:14 PM
+Message  | Using 64 Bit Computation Engines
+Message  | PROCESS:RasGeomWriter
+Message  | 
+Message  | Writing Geometry
+Progress | 1
+Message  | Completed Writing Geometry
+Message  | 
+Message  | Starting to copy Geometry Data to Results
+Message  | Completed copying Geometry Data to Results
+Message  | 
+Message  | PROCESS:RasSediment
+Progress | 0.1
+Progress | 0.2
+Message  | 	
+Message  | Sediment Transport Analysis HEC-RAS 5.0.5 June 2018
+Progress | 0.1
+Progress | 0.3
+Progress | 0.4
+Progress | 0.5
+Progress | 0.6
+Progress | 0.7
+Progress | 0.8
+Progress | 0.9
+Progress | 1
+Progress | 0.011
+Progress | 0.032
+Progress | 0.053
+Progress | 0.074
+Progress | 0.095
+Progress | 0.116
+Progress | 0.137
+Progress | 0.158
+Progress | 0.179
+Progress | 0.2
+Progress | 0.221
+Progress | 0.242
+Progress | 0.263
+Progress | 0.284
+Progress | 0.305
+Progress | 0.326
+Progress | 0.347
+Progress | 0.368
+Progress | 0.389
+Progress | 0.41
+Progress | 0.431
+Progress | 0.452
+Progress | 0.473
+Progress | 0.494
+Progress | 0.515
+Progress | 0.536
+Progress | 0.557
+Progress | 0.578
+Progress | 0.599
+Progress | 0.62
+Progress | 0.641
+Progress | 0.662
+Progress | 0.683
+Progress | 0.704
+Progress | 0.725
+Progress | 0.746
+Progress | 0.767
+Progress | 0.788
+Progress | 0.809
+Progress | 0.83
+Progress | 0.851
+Progress | 0.872
+Progress | 0.893
+Progress | 0.914
+Progress | 0.935
+Progress | 0.956
+Progress | 0.977
+Progress | 0.998
+Progress | 1
+Message  | 
+Message  | Finished Sediment Transport Simulation
+Message  | 
+Message  | 
+Message  | Computations Summary
+Message  | 
+Message  | Computation Task	Time(hh:mm:ss)
+Message  | Completing Geometry(64)	<1
+Message  | Sediment Computations(64)	      14
+Message  | Complete Process	      14

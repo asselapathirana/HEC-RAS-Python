@@ -1,0 +1,18 @@
+Flow Title=steady_basic
+Program Version=5.03
+Number of Profiles= 1 
+Profile Names=basic
+River Rch & RM=Warta,Dop_Jeziorsko   ,515943.3
+     120
+Boundary for River Rch & Prof#=Warta,Dop_Jeziorsko   , 1 
+Up Type= 0 
+Dn Type= 3 
+Dn Slope=0.0003611
+DSS Import StartDate=
+DSS Import StartTime=
+DSS Import EndDate=
+DSS Import EndTime=
+DSS Import GetInterval= 0 
+DSS Import Interval=
+DSS Import GetPeak= 0 
+DSS Import FillOption= 0 

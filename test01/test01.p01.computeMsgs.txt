@@ -1,0 +1,71 @@
+Message  | Plan: 'plan_basic' (test01.p01)
+Message  | Simulation started at: 29Sep2018 05:50:47 PM
+Message  | Using 64 Bit Computation Engines
+Message  | PROCESS:RasGeomWriter
+Message  | 
+Message  | Writing Geometry
+Progress | 1
+Message  | Completed Writing Geometry
+Message  | 
+Message  | Starting to copy Geometry Data to Results
+Message  | Completed copying Geometry Data to Results
+Message  | 
+Message  | PROCESS:RasSteady
+Progress | 0.1
+Progress | 0.2
+Message  | 	
+Message  | Steady Flow Simulation HEC-RAS 5.0.5 June 2018
+Progress | 0.1
+Progress | 0.3
+Progress | 0.4
+Progress | 0.5
+Progress | 0.6
+Progress | 0.7
+Progress | 0.8
+Progress | 0.9
+Progress | 1
+Progress | 0.027
+Progress | 0.054
+Progress | 0.108
+Progress | 0.135
+Progress | 0.162
+Progress | 0.189
+Progress | 0.216
+Progress | 0.243
+Progress | 0.27
+Progress | 0.297
+Progress | 0.324
+Progress | 0.351
+Progress | 0.378
+Progress | 0.405
+Progress | 0.432
+Progress | 0.459
+Progress | 0.486
+Progress | 0.514
+Progress | 0.541
+Progress | 0.568
+Progress | 0.595
+Progress | 0.622
+Progress | 0.649
+Progress | 0.676
+Progress | 0.703
+Progress | 0.73
+Progress | 0.757
+Progress | 0.784
+Progress | 0.811
+Progress | 0.865
+Progress | 0.892
+Progress | 0.919
+Progress | 0.946
+Progress | 0.973
+Progress | 1
+Message  | 
+Message  | Finished Steady Flow Simulation
+Message  | 
+Message  | 
+Message  | Computations Summary
+Message  | 
+Message  | Computation Task	Time(hh:mm:ss)
+Message  | Completing Geometry(64)	<1
+Message  | Steady Flow Computations(64)	<1
+Message  | Complete Process	<1
